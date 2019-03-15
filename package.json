@@ -1,0 +1,14 @@
+{
+    "name": "@neville.dabreo/greetingbot",
+    "version": "2.0.0",
+    "description": "Greeting with the name",
+    "license": "MIT",
+    "repository": "NevilDabre/greetingbot",
+    "main": "index.js",
+    "keywords": [
+        "greetings",
+        "bot",
+        "neville",
+        "greetingbot"
+    ]
+}
