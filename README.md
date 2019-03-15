@@ -1,6 +1,6 @@
 # @neville.dabreo/greetingbot
 
-Removes all spaces from a string.
+Greets user with Hello Message.
 
 ## Install
 
