@@ -1,6 +1,6 @@
 # @neville.dabreo/greetingbot
 
-Greets user with Hello Message.
+Greets user based on current time!
 
 ## Install
 
@@ -14,9 +14,11 @@ $ npm install @neville.dabreo/greetingbot
 const greetingbot = require("@neville.dabreo/greetingbot");
 
 greetingbot("Neville!");
-//=> "Hello Neville!"
+//=> "Good Morning Neville!"
+//=> "Good Evening Neville!"
 
 greetingbot();
-//=> "Hello good looking!"
+//=> "Good Night good looking!"
+//=> "Good Day good looking!"
 
 ```
